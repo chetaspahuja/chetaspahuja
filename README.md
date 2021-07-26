@@ -16,17 +16,20 @@
 - ❤  The improvements in technology everyday motivates me to develop , learn and improve.
 
 ### Connect with me 😊:
-- ![image](https://user-images.githubusercontent.com/75940206/126946450-cbbfe6b4-8c2d-46bf-9159-a6206dd0f6ed.png)
+- ![image](https://user-images.githubusercontent.com/75940206/126956805-8c4b7b82-662a-4f0a-bd69-d2111dee2d3f.png)
 : https://www.linkedin.com/in/chetas-pahuja-63b348203/
-- ![image](https://user-images.githubusercontent.com/75940206/126946468-850953dd-9c3e-4e9f-93db-c2f1f7a5477b.png)
-: https://twitter.com/ChetasPahuja
-- ![image](https://user-images.githubusercontent.com/75940206/126946603-48fc8f21-4805-408b-8301-c94931107abf.png)
+- ![image](https://user-images.githubusercontent.com/75940206/126956898-8f380cf2-0022-4843-b230-8500e7580b20.png)
 : chetaspahuja@gmail.com
+- ![image](https://user-images.githubusercontent.com/75940206/126956853-102ccdbe-500c-454f-bd10-054c50a039ea.png)
+: https://twitter.com/ChetasPahuja
 
 
-### Hi there 👋
+
+
 
 <!--
+![image](https://user-images.githubusercontent.com/75940206/126956420-4b4412c1-aaba-4d9c-96bf-e7186fb84940.png)
+
 **chetaspahuja/chetaspahuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
