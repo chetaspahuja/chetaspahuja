@@ -11,7 +11,7 @@
 
 - 🔭  As for now I've completed Data Structures and algorithms in both C++ and Java.
 
-- 🌎  I love to read about how technology changes everyday , and want to be a part of this change and contribute in making lives easier.
+- 🌎  I love to read about how technology changes everyday. I want to be a part of this change and contribute in making lives easier.
 
 - ❤  The improvements in technology everyday motivates me to develop , learn and improve.
 
