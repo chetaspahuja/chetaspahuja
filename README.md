@@ -1,15 +1,13 @@
 
 ### Hi there 🙋‍♂️ , I'm Chetas Pahuja 👨‍🎓
 
-
-
-- 🌱  I love to join dots in the past to predict the future. Currently I am a first year student and I've a deep interest in Machine Learning and programming.
+- 🌱  I love to join dots in the past to predict the future. Currently I am a second year student and I've a deep interest in Machine Learning and programming.
 
 - ✨  Currently I am working on my Machine learning and programming skills. 
 
 - 🤩  I want to learn about Artificial Intelligence, how a machine learns and thinks like a human brain.
 
-- 🔭  As for now I've completed Data Structures and algorithms in both C++ and Java.
+- 🔭  As of now, I am well versed with Data Structures and Algorithms and it's applications in both C++ and Java.
 
 - 🌎  I love to read about how technology changes everyday. I want to be a part of this change and contribute in making lives easier.
 
@@ -22,10 +20,6 @@
 : chetaspahuja@gmail.com
 - ![image](https://user-images.githubusercontent.com/75940206/126956853-102ccdbe-500c-454f-bd10-054c50a039ea.png)
 : https://twitter.com/ChetasPahuja
-
-
-
-
 
 <!--
 ![image](https://user-images.githubusercontent.com/75940206/126956420-4b4412c1-aaba-4d9c-96bf-e7186fb84940.png)
