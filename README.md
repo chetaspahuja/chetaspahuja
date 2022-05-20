@@ -2,15 +2,10 @@
 ### Hi there 🙋‍♂️ , I'm Chetas Pahuja 👨‍🎓
 
 - 🌱  I love to join dots in the past to predict the future. Currently I am a second year student and I've a deep interest in Machine Learning and programming.
-
 - ✨  Currently I am working on my Machine learning and programming skills. 
-
 - 🤩  I want to learn about Artificial Intelligence, how a machine learns and thinks like a human brain.
-
 - 🔭  As of now, I am well versed with Data Structures and Algorithms and it's applications in both C++ and Java.
-
 - 🌎  I love to read about how technology changes everyday. I want to be a part of this change and contribute in making lives easier.
-
 - ❤  The improvements in technology everyday motivates me to develop , learn and improve.
 
 ### Connect with me 😊:
