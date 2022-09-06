@@ -4,7 +4,7 @@ Having developed a keen eye for emerging technologies around me, I have always b
 
 <h3>🌎Connect with me</h3>
   <div>
-    <a href = "href="mailto:chetaspahuja@gmail.com" target="_blank" target = "_blank">
+    <a href = "mailto:chetaspahuja@gmail.com" target="_blank" target = "_blank">
       <img src = "https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=gmail&logoColor=red" alt="Chetas Pahuja"/>
     </a>
     <a  href="https://www.linkedin.com/in/chetas-pahuja-63b348203/" target="_blank">
